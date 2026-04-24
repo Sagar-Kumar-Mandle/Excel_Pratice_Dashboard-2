@@ -8,7 +8,7 @@ Right now, I’m focusing on **Excel**, because for small to medium datasets, it
 
 ## 🚀 About This Project
 
-This is a series of **10+ Excel dashboards** based on different business scenarios like sales, HR, and small businesses.
+This is a series of **15 Excel dashboards** based on different business scenarios like sales, HR, and small businesses.
 
 Each dashboard is built using datasets with **less than 10,000 rows**, which is common in many real-world beginner-level projects.
 
