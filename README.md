@@ -21,15 +21,6 @@ The goal:
 
 | No. | Dashboard | Description |
 |-----|----------|------------|
-| 01 | Sales Dashboard | Revenue, Profit, and Trends |
-| 02 | Coffee Sales Data | Revenue, Profit, and Product Sales Insights |
-| 03 | Barber Shop Dashboard | Customer Behavior and Revenue |
-| 04 | Income & Expenses Data Dashboard | Personal Finance Tracking, Expense Analysis, and Savings Insights |
-| 05 | Adidas 2020–2021 Sales Dashboard | Sales Performance, Profit, and Regional Trends |
-| 06 | HR Analytics Management | Employee Data, Attrition & Workforce Insights |
-| 07 | EdTech Marketing & Sales Dashboard | Campaign Performance, Student Enrollment, Revenue Trends, and Channel Insights |
-| 08 | E-Commerce Sales Analytics | Sales Performance, Profit Analysis, Customer Segmentation, and Regional Insights |
-| 09 | Website Traffic & Campaign Performance Analytics | |
 | 10 | Hotel Booking Performance | |
 | 11 | Sales & Profit Dashboard | |
 | 12 | Customer Profitability Analysis | |
