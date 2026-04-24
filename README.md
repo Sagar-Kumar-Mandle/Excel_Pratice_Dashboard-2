@@ -21,7 +21,7 @@ The goal:
 
 | No. | Dashboard | Description |
 |-----|----------|------------|
-| 10 | Hotel Booking Performance | |
+| 10 | Hotel Booking Performance | Room Bookings, Revenue & Profit Trends, Customer Segmentation, Room Type Analysis, and Country-wise Performance Insights |
 | 11 | Sales & Profit Dashboard | |
 | 12 | Customer Profitability Analysis | |
 | 13 | Production Working Hour | |
