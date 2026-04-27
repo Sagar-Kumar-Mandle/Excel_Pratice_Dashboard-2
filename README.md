@@ -23,7 +23,7 @@ The goal:
 |-----|----------|------------|
 | 10 | Hotel Booking Performance | Room Bookings, Revenue & Profit Trends, Customer Segmentation, Room Type Analysis, and Country-wise Performance Insights |
 | 11 | Sales & Profit Dashboard | Sales, Profit, Trends, YoY Growth |
-| 12 | Customer Profitability Analysis | |
+| 12 | Customer Profitability Analysis | Revenue, Profit, Customer Trends, and Satisfaction Insights |
 | 13 | Production Working Hour | |
 | 14 | Purchase & Shipping Analysis Dashboard | |
 | 15 | Sales Agent Performance Data | |
