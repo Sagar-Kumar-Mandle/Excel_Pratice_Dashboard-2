@@ -25,7 +25,7 @@ The goal:
 | 11 | Sales & Profit Dashboard | Sales, Profit, Trends, YoY Growth |
 | 12 | Customer Profitability Analysis | Revenue, Profit, Customer Trends, and Satisfaction Insights |
 | 13 | Production Working Hour | Employee Working Hours, Overtime Analysis, Planned vs Actual Hours Comparison, Division-wise Performance, City-wise Revenue Insights, Budget vs Actual Analysis |
-| 14 | Purchase & Shipping Analysis Dashboard | |
+| 14 | Purchase & Shipping Analysis Dashboard | Revenue Trends, Product & Category Performance, Customer Segmentation, and Payment Insights |
 | 15 | Sales Agent Performance Data | |
 ---
 
